@@ -9,4 +9,4 @@ First, I have setup the copters position at [0,0,0]. Then, for both x,y axis ran
 Now when the new position reaches it's corresponding boundary value, in that case again a randomness has been used to avoid exceeding the target area. 
 
 
-v2: in the version 2 , I have used distance function to measure the difference between the old and current x,y values. The new values are generated using random fracrion generator within the specified range. Then, again based on random speed values, the next values of x and y are being generated and thus updated. 
+v2: in the version 2 , I have used distance function to measure the difference between the old and current x,y values. The new values are generated using random fraction generator within the specified range. Then, again based on random speed values, the next values of x and y are being generated and thus updated. 
