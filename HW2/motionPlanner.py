@@ -15,7 +15,7 @@ def sysCall_thread():
     
     
     obj_handle = sim.getObject("/target")
-    sim.setObjectPosition(obj_handle,-1,[0,0,0.5])#starts from [0,0]
+    sim.setObjectPosition(obj_handle,-1,[0,0,1])#starts from [0,0]
     speed = random.uniform(0.01, 0.03) # speed controller
     while True:
         
