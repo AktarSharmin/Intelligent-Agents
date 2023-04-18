@@ -1,0 +1,1 @@
+The Python code generates uniformly random samples with random orientation on the surface of a unit sphere using NumPy. It  retrieves the sphere object handle, generates random samples, normalizes them, scales them, creates cone primitives, and sets their position and orientation.
